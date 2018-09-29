@@ -1,6 +1,8 @@
 # markuping
 For viewing and paging through a markdown file with color and formatting
 
+![](markuping.gif)
+
 ## Installation
 `npm i -g markuping
 
