@@ -1,0 +1,18 @@
+{
+  "name": "markuping",
+  "version": "1.0.0",
+  "bin": {
+    "markuping": "./index.js"
+  },
+  "description": "Pretty print markdown files in terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre Maoui",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^0.5.1",
+    "marked-terminal": "^3.1.1"
+  }
+}
