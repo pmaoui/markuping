@@ -4,7 +4,7 @@ For viewing a markdown file with color and formatting
 ![](markuping.gif)
 
 ## Installation
-`npm i -g markuping
+`npm i -g markuping`
 
 ## Usage
 * `markuping README.md`
