@@ -1,5 +1,5 @@
 # markuping
-For viewing and paging through a markdown file with color and formatting
+For viewing a markdown file with color and formatting
 
 ![](markuping.gif)
 
